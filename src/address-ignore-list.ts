@@ -82,4 +82,9 @@ export const ADDRESS_IGNORE_LIST = [
   "bc1qlxdhlndfr0uumw6as0g3w8s3n0k2drkzs4f9g5",
   "bc1q4vxcxw7mpg9dcryqu0kav8awrn7qk5e6wgs3hg",
   "3KMmeqPeQcngyTehdfSwsGqvxfU7J7qtc8",
+  "bc1q5ns2qck7xeyggadp25wkaw0mjltktju93cjdjx",
+  "1KNm4K8GUK8sMoxc2Z3zU8Uv5FDVjrA72p",
+  "bc1qwelntg7tpxwgmh7gea0kycclx87mksnvhaadgf",
+  "bc1q2kv27d25vmfku6n8zd62hwetwhh5w72kxpw8cd",
+  "bc1qsh3639xtllc3y8lvclpnrk7y95vc9g4wucav77",
 ];
